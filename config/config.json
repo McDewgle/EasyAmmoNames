@@ -1,0 +1,14 @@
+{
+    "items": {
+        "item_tpl": {
+            "Name": "Item's new name",
+            "ShortName": "Item's new short name",
+            "Description": "Item's new description, leave empty for default"
+        },
+        "590c657e86f77412b013051d": {
+            "Name": "Grizzly Bear",
+            "ShortName": "GRIZZLY",
+            "Description": "Lie down and pray it doesn't eat you..."
+        }
+    }
+}
