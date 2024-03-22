@@ -1,12 +1,8 @@
 import { DependencyContainer } from "tsyringe";
 
-import { IPostAkiLoadMod } from "@spt-aki/models/external/IPostAkiLoadMod";
 import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
 import { ILogger } from "@spt-aki/models/spt/utils/ILogger";
-import { ConfigServer } from "@spt-aki/servers/ConfigServer";
-import { ConfigTypes } from "@spt-aki/models/enums/ConfigTypes";
 import { DatabaseServer } from "@spt-aki/servers/DatabaseServer";
-import { LogTextColor } from "@spt-aki/models/spt/logging/LogTextColor";
 
 class BulletRenamer implements IPostDBLoadMod
 {
@@ -14,7 +10,7 @@ class BulletRenamer implements IPostDBLoadMod
 
     postDBLoad(container: DependencyContainer): void 
     {
-        // const logger = container.resolve<ILogger>("WinstonLogger");
+        const logger = container.resolve<ILogger>("WinstonLogger");
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const itemDatabase = databaseServer.getTables().templates.items;
         const localeDatabase = databaseServer.getTables().locales.global["en"];
@@ -36,6 +32,13 @@ class BulletRenamer implements IPostDBLoadMod
 
                 if (itemInfo["ShortName"] != "" && itemShortName in localeDatabase)
                 {
+                    if (itemInfo["ShortName"].length > 9)
+                    {
+                        logger.error("Provided shortname was too long! Shortnames have a maximum of 9 characters.");
+                        logger.error(`Trimming ${itemInfo["ShortName"]} to ${itemInfo["ShortName"].substring(0, 9)}`);
+                        itemInfo["ShortName"] = itemInfo["ShortName"].substring(0, 9);
+                    }
+                    
                     localeDatabase[itemShortName] = itemInfo["ShortName"];
                 }
 

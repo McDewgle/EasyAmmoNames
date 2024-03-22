@@ -1,5 +1,5 @@
 {
-    "name": "BulletRenamer",
+    "name": "bullet-renamer",
     "version": "1.0.0",
     "main": "src/mod.js",
     "license": "MIT",
