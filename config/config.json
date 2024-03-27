@@ -1,14 +1,1154 @@
 {
     "items": {
-        "item_tpl": {
-            "Name": "Item's new name",
-            "ShortName": "Item's new short name",
-            "Description": "Item's new description, leave empty for default"
+        "5c11279ad174af029d64592b": {
+            "Name": "5.56x45mm Varmageddon box (20 pcs)",
+            "ShortName": "556 VAR",
+            "Description": ""
         },
-        "590c657e86f77412b013051d": {
-            "Name": "Grizzly Bear",
-            "ShortName": "GRIZZLY",
-            "Description": "Lie down and pray it doesn't eat you..."
+        "5c0d5ae286f7741e46554302": {
+            "Name": "5.56x45mm Varmageddon",
+            "ShortName": "556 VA",
+            "Description": ""
+        },
+        "59e6927d86f77411da468256": {
+            "Name": "5.56x45mm HP",
+            "ShortName": "556 HP",
+            "Description": ""
+        },  
+		"59e6918f86f7746c9f75e849": {
+            "Name": "5.56x45mm White Tip",
+            "ShortName": "556 WH",
+            "Description": ""
+        },
+        "59e68f6f86f7746c9f75e846": {
+            "Name": "5.56x45mm Orange Tip",
+            "ShortName": "556 OR",
+            "Description": ""
+        },
+        "59e6920f86f77411d82aa167": {
+            "Name": "5.56x45mm FMJ",
+            "ShortName": "556 FMJ",
+            "Description": ""
+        },
+        "5447ac644bdc2d6c208b4567": {
+            "Name": "5.56x45mm Green Tip box (30 pcs)",
+            "ShortName": "556 GR",
+            "Description": ""
+        },
+        "54527a984bdc2d4e668b4567": {
+            "Name": "5.56x45mm Green tip",
+            "ShortName": "556 GR",
+            "Description": ""
+        },
+        "60194943740c5d77f6705eea": {
+            "Name": "5.56x45mm Open Tip",
+            "ShortName": "556 OP",
+            "Description": ""
+        },
+        "59e6906286f7746c9f75e847": {
+            "Name": "5.56x45mm Red Tip",
+            "ShortName": "556 RE",
+            "Description": ""
+        },
+        "54527ac44bdc2d36668b4567": {
+            "Name": "5.56x45mm Steel Tip",
+            "ShortName": "556 ST",
+            "Description": ""
+        },
+        "59e690b686f7746c9f75e848": {
+            "Name": "5.56x45mm Black Tip",
+            "ShortName": "556 BL",
+            "Description": ""
+        },
+        "64898583d5b4df6140000a1d": {
+            "Name": "5.56x45mm AP box (50 pcs)",
+            "ShortName": "556 AP",
+            "Description": ""
+        },
+        "601949593ae8f707c4608daa": {
+            "Name": "5.56x45mm AP",
+            "ShortName": "556 AP",
+            "Description": ""
+        },
+        "64acea2c03378853630da53e": {
+            "Name": "7.62x39mm HP box (20 pcs)",
+            "ShortName": "762 HP",
+            "Description": ""
+        },
+        "59e4d3d286f774176a36250a": {
+            "Name": "7.62x39mm HP",
+            "ShortName": "762 HP",
+            "Description": ""
+        },
+        "64ace9ff03378853630da538": {
+            "Name": "7.62x39mm SP box (20 pcs)",
+            "ShortName": "762 SP",
+            "Description": ""
+        },  
+		"64b7af734b75259c590fa895": {
+            "Name": "7.62x39mm SP",
+            "ShortName": "762 SP",
+            "Description": ""
+        },
+        "64ace9d9b5bf5e95f50a4c1d": {
+            "Name": "7.62x39mm FMJ box (20 pcs)",
+            "ShortName": "762 FMJ",
+            "Description": ""
+        },
+        "64b7af5a8532cf95ee0a0dbd": {
+            "Name": "7.62x39mm FMJ",
+            "ShortName": "762 FMJ",
+            "Description": ""
+        },
+        "64acea0d03378853630da53b": {
+            "Name": "7.62x39mm US box (20 pcs)",
+            "ShortName": "762 US",
+            "Description": ""
+        },
+        "59e4d24686f7741776641ac7": {
+            "Name": "7.62x39mm US",
+            "ShortName": "762 US",
+            "Description": ""
+        },
+        "64acea09c4eda9354b0226ad": {
+            "Name": "7.62x39mm Tracer box (20 pcs)",
+            "ShortName": "762x39 TR",
+            "Description": ""
+        },
+        "59e4cf5286f7741778269d8a": {
+            "Name": "7.62x39mm Tracer",
+            "ShortName": "762 TR",
+            "Description": ""
+        },
+        "5649ed104bdc2d3d1c8b458b": {
+            "Name": "7.62x39mm PS box (20 pcs)",
+            "ShortName": "762 PS",
+            "Description": ""
+        },
+        "5656d7c34bdc2d9d198b4587": {
+            "Name": "7.62x39mm PS",
+            "ShortName": "762 PS",
+            "Description": ""
+        },
+        "64ace9f9c4eda9354b0226aa": {
+            "Name": "7.62x39mm PP box (20 pcs)",
+            "ShortName": "762 PP",
+            "Description": ""
+        },
+        "64b7af434b75259c590fa893": {
+            "Name": "7.62x39mm PP",
+            "ShortName": "762 PP",
+            "Description": ""
+        },
+        "64acea16c4eda9354b0226b0": {
+            "Name": "7.62x39mm BP box (20 pcs)",
+            "ShortName": "762 BP",
+            "Description": ""
+        },
+        "59e0d99486f7744a32234762": {
+            "Name": "7.62x39mm BP",
+            "ShortName": "762 BP",
+            "Description": ""
+        },
+        "6489851fc827d4637f01791b": {
+            "Name": "7.62x39mm AP box (20 pcs)",
+            "ShortName": "762 AP",
+            "Description": ""
+        },
+        "601aa3d2b2bcb34913271e6d": {
+            "Name": "7.62x39mm AP",
+            "ShortName": "762 AP",
+            "Description": ""
+        },
+        "5737339e2459776af261abeb": {
+            "Name": "5.45x39mm HP box (30 pcs)",
+            "ShortName": "545 HP",
+            "Description": ""
+        },
+        "56dff216d2720bbd668b4568": {
+            "Name": "5.45x39mm HP",
+            "ShortName": "545 HP",
+            "Description": ""
+        },
+        "57372deb245977685d4159b3": {
+            "Name": "5.45x39mm PRS box (120 pcs)",
+            "ShortName": "545 PRS",
+            "Description": ""
+        },  
+		"57372e4a24597768553071c2": {
+            "Name": "5.45x39mm PRS box (30 pcs)",
+            "ShortName": "545 PRS",
+            "Description": ""
+        },
+        "56dff338d2720bbd668b4569": {
+            "Name": "5.45x39mm PRS",
+            "ShortName": "545 PRS",
+            "Description": ""
+        },
+        "573733c72459776b0b7b51b0": {
+            "Name": "5.45x39mm SP box (30 pcs)",
+            "ShortName": "545 SP",
+            "Description": ""
+        },
+        "56dff421d2720b5f5a8b4567": {
+            "Name": "5.45x39mm SP",
+            "ShortName": "545 SP",
+            "Description": ""
+        },
+        "57372f7d245977699b53e301": {
+            "Name": "5.45x39mm US box (120 pcs)",
+            "ShortName": "545 US",
+            "Description": ""
+        },
+        "5737300424597769942d5a01": {
+            "Name": "5.45x39mm US box (30 pcs)",
+            "ShortName": "545 US",
+            "Description": ""
+        },
+        "56dff4ecd2720b5f5a8b4568": {
+            "Name": "5.45x39mm US",
+            "ShortName": "545 US",
+            "Description": ""
+        },
+        "57372ee1245977685d4159b5": {
+            "Name": "5.45x39mm Tracer box (120 pcs)",
+            "ShortName": "545 US",
+            "Description": ""
+        },
+        "57372f5c24597769917c0131": {
+            "Name": "5.45x39mm Tracer box (30 pcs)",
+            "ShortName": "545 TR",
+            "Description": ""
+        },
+        "56dff4a2d2720bbd668b456a": {
+            "Name": "5.45x39mm Tracer",
+            "ShortName": "545 TR",
+            "Description": ""
+        },
+        "5737330a2459776af32363a1": {
+            "Name": "5.45x39mm FMJ box (30 pcs)",
+            "ShortName": "545 FMJ",
+            "Description": ""
+        },
+        "56dff0bed2720bb0668b4567": {
+            "Name": "5.45x39mm FMJ",
+            "ShortName": "545 FMJ",
+            "Description": ""
+        },
+        "57372e73245977685d4159b4": {
+            "Name": "5.45x39mm PS box (120 pcs)",
+            "ShortName": "545 PS",
+            "Description": ""
+        },
+        "57372ebf2459776862260582": {
+            "Name": "5.45x39mm PS box (30 pcs)",
+            "ShortName": "545 PS",
+            "Description": ""
+        },
+        "56dff3afd2720bba668b4567": {
+            "Name": "5.45x39mm PS",
+            "ShortName": "545 PS",
+            "Description": ""
+        },
+        "57372d1b2459776862260581": {
+            "Name": "5.45x39mm PP box (120 pcs)",
+            "ShortName": "545 PP",
+            "Description": ""
+        },
+        "57372d4c245977685a3da2a1": {
+            "Name": "5.45x39mm PP box (120 pcs)",
+            "ShortName": "545 PP",
+            "Description": ""
+        },
+        "57372db0245977685d4159b2": {
+            "Name": "5.45x39mm PP box (30 pcs)",
+            "ShortName": "545 PP",
+            "Description": ""
+        },
+        "56dff2ced2720bb4668b4567": {
+            "Name": "5.45x39mm PP",
+            "ShortName": "545 PP",
+            "Description": ""
+        },
+        "57372c21245977670937c6c2": {
+            "Name": "5.45x39mm BT box (120 pcs)",
+            "ShortName": "545 BT",
+            "Description": ""
+        },
+        "57372c89245977685d4159b1": {
+            "Name": "5.45x39mm BT box (30 pcs)",
+            "ShortName": "545 BT",
+            "Description": ""
+        },
+        "56dff061d2720bb5668b4567": {
+            "Name": "5.45x39mm BT",
+            "ShortName": "545 BT",
+            "Description": ""
+        },
+        "64898602f09d032aa9399d56": {
+            "Name": "5.45x39mm 7N40 box (30 pcs)",
+            "ShortName": "545 7N40",
+            "Description": ""
+        },
+        "61962b617c6c7b169525f168": {
+            "Name": "5.45x39mm 7N40",
+            "ShortName": "545 7N40",
+            "Description": ""
+        },
+        "5737292724597765e5728562": {
+            "Name": "5.45x39mm BP box (120 pcs)",
+            "ShortName": "545 BP",
+            "Description": ""
+        },
+        "57372ac324597767001bc261": {
+            "Name": "5.45x39mm BP box (30 pcs)",
+            "ShortName": "545 BP",
+            "Description": ""
+        },
+        "56dfef82d2720bbd668b4567": {
+            "Name": "5.45x39mm BP",
+            "ShortName": "545 BP",
+            "Description": ""
+        },
+        "57372b832459776701014e41": {
+            "Name": "5.45x39mm BS box (120 pcs)",
+            "ShortName": "545 BS",
+            "Description": ""
+        },
+        "57372bd3245977670b7cd243": {
+            "Name": "5.45x39mm BS box (30 pcs)",
+            "ShortName": "545 BS",
+            "Description": ""
+        },
+        "56dff026d2720bb8668b4567": {
+            "Name": "5.45x39mm BS",
+            "ShortName": "545 BS",
+            "Description": ""
+        },
+        "5c1262a286f7743f8a69aab2": {
+            "Name": "5.45x39mm PPBS box (30 pcs)",
+            "ShortName": "545 PPBS",
+            "Description": ""
+        },
+        "5c0d5e4486f77478390952fe": {
+            "Name": "5.45x39mm PPBS",
+            "ShortName": "545 PPBS",
+            "Description": ""
+        },
+        "5e023e88277cce2b522ff2b1": {
+            "Name": "7.62x51mm Nosler Partition",
+            "ShortName": "NATO NP",
+            "Description": ""
+        },
+        "5e023e6e34d52a55c3304f71": {
+            "Name": "7.62x51mm SP",
+            "ShortName": "NATO SP",
+            "Description": ""
+        },
+        "5e023e53d4353e3302577c4c": {
+            "Name": "7.62x51mm FMJ",
+            "ShortName": "NATO FMJ",
+            "Description": ""
+        },
+        "58dd3ad986f77403051cba8f": {
+            "Name": "7.62x51mm Open Tip",
+            "ShortName": "NATO OP",
+            "Description": ""
+        },
+        "5a608bf24f39f98ffc77720e": {
+            "Name": "7.62x51mm Tracer",
+            "ShortName": "NATO TR",
+            "Description": ""
+        },
+        "5a6086ea4f39f99cd479502f": {
+            "Name": "7.62x51mm Steel Tip",
+            "ShortName": "NATO ST",
+            "Description": ""
+        },
+        "648984e3f09d032aa9399d53": {
+            "Name": "7.62x51mm AP box (20 pcs)",
+            "ShortName": "NATO AP",
+            "Description": ""
+        },
+        "5efb0c1bd79ff02a1f5e68d9": {
+            "Name": "7.62x51mm AP",
+            "ShortName": "NATO AP",
+            "Description": ""
+        },
+        "5d6e6772a4b936088465b17c": {
+            "Name": "12ga #4 Buckshot",
+            "ShortName": "12ga #4",
+            "Description": "Winchester™ Buckshot loaded with 24 #4 lead pellets."
+        },
+        "5d6e67fba4b9361bc73bc779": {
+            "Name": "12ga #3 Buckshot",
+            "ShortName": "12ga #3",
+            "Description": "Winchester™ Buckshot loaded with 15 #3 lead pellets. Why does this shell get one extra pellet??"
+        },
+        "560d5e524bdc2d25448b4571": {
+            "Name": "12ga #2 Buckshot",
+            "ShortName": "12ga #2",
+            "Description": "Winchester™ Buckshot loaded with 12 #2 lead pellets."
+        },
+        "5d6e6806a4b936088465b17e": {
+            "Name": "12ga Super-X 00 Buckshot",
+            "ShortName": "12ga #00",
+            "Description": "Winchester™ Super-X 'Double Ought' Buckshot loaded with 9 #00 pellets. When you absolutely have to blow a chunk of meat out of your target. Accept no substitutes."
+        },
+        "64b8ee384b75259c590fa89b": {
+            "Name": "12ga Piranha",
+            "ShortName": "12ga PR",
+            "Description": "Slightly more useful than flechettes but still not as good as standard buckshot; These shells are loaded full of metal shards and pellets for high flesh damage against unarmored targets with very little recoil."
+        },
+        "5d6e6911a4b9361bd5780d52": {
+            "Name": "12ga Flechette",
+            "ShortName": "12ga FL",
+            "Description": "An exotic shotgun shell packed full of metal darts. Weak against armor, strong against flesh. Latest advancement in the manufacturing process guarantees only half of the 20 darts will keyhole."
+        },
+        "5c1127d0d174af29be75cf68": {
+            "Name": "12ga RIP Slug box (5 pcs)",
+            "ShortName": "12ga RP",
+            "Description": "G2 Research™ (Radically Invasive Projectile) is a 303gr solid brass hollow point slug designed to fragment into multiple pieces upon penetration creating up to six separate wound channels. Some USEC operator must've brought this overpriced nonsense into Tarkov."
+        },
+        "5c0d591486f7744c505b416f": {
+            "Name": "12ga RIP Slug",
+            "ShortName": "12ga RP",
+            "Description": "G2 Research™ (Radically Invasive Projectile) is a 303gr solid brass hollow point slug designed to fragment into multiple pieces upon penetration creating up to six separate wound channels. Some USEC operator must've brought this overpriced nonsense into Tarkov."
+        },
+        "5d6e68d1a4b93622fe60e845": {
+            "Name": "12ga Superformance HP slug",
+            "ShortName": "12ga HS",
+            "Description": "Hornady™ Superformance FTX is a high performance hollow point slug designed for maximum velocity. Loaded with a 300gr FTX (flexible tip) hollow point slug made of brass and zinc for uniform expansion."
+        },
+        "5d6e68e6a4b9361c140bcfe0": {
+            "Name": "12ga Custom Lite HP Slug",
+            "ShortName": "12ga HL",
+            "Description": "Hornady™ Custom Lite FTX is a reduced-recoil option ideal for young shooters and anyone looking to tame the recoil of their favorite shotgun. Loaded with a 300gr FTX (flexible tip) hollow point slug made of brass and zinc for uniform expansion."
+        },
+        "5d6e68b3a4b9361bca7e50b5": {
+            "Name": "12ga Copper Solid HP Slug",
+            "ShortName": "12ga CS",
+            "Description": "Remington™ Copper-Solid Magnum Hollow Point 437gr slug. Great for hunting deer or anything on two legs not wearing much armor."
+        },
+        "58820d1224597753c90aeb13": {
+            "Name": "12ga Lead Slug",
+            "ShortName": "12ga LS",
+            "Description": "Federal Premium™ Tactical TruBall Rifled Slug for Law Enforcement. 438 grain sabot stabilized lead projectile offers great accuracy and expansion on impact."
+        },
+        "5d6e68dea4b9361bcc29e659": {
+            "Name": "12ga Dual Sabot Slug",
+            "ShortName": "12ga DS",
+            "Description": "The worst of both worlds. Halfway between buckshot and a slug, it's two slugs in a single shell!"
+        },
+        "5d6e6869a4b9361c140bcfde": {
+            "Name": "12ga Grizzly Slug",
+            "ShortName": "12ga GR",
+            "Description": "'калибра 40' представляет собой цельносвинцовую пулю, предназначенную для стрельбы из нарезных стволов. Весит 40 грамм и может остановить медведя. Но чтобы быть уверенным, выстрелите дважды."
+        },
+        "5d6e6891a4b9361bd473feea": {
+            "Name": "12ga Poleva-3 Slug",
+            "ShortName": "12ga P3",
+            "Description": "Пуля 'Полев-3' - это 23гр стабилизированная хвостовиком сабо-пуля, созданная для обеспечения охотников эффективным решением против медведей, лосей и диких кабанов. Финский стабилизированный сабо обеспечивает отличную точность и останавливающую силу против дальних целей."
+        },
+        "5d6e689ca4b9361bc8618956": {
+            "Name": "12ga Poleva-6 Slug",
+            "ShortName": "12ga P6",
+            "Description": "Это модификация патрона Полева-3, основанная на увеличении веса самой пули с 23гр до 27гр. Это позволило дополнительно увеличить расширение и смертельность пули. Во всех остальных отношениях он не отличается от Полева-3."
+        },
+        "5d6e68c4a4b9361b93413f79": {
+            "Name": "12ga makeshift .50 BMG Slug",
+            "ShortName": "12ga BMG",
+            "Description": "A 12ga shell with a .50 BMG slug inside. Someone must be handloading these because these aren't mass produced normally... Okay as far as 'exotic' ammunition goes, I kinda like this one."
+        },
+        "64898838d5b4df6140000a20": {
+            "Name": "12ga AP-20 box (25 pcs)",
+            "ShortName": "12ga AP20",
+            "Description": "The DDupleks™ AP-20 slug is designed to penetrate level IV body armor. For military and law enforcement use only."
+        },
+        "5d6e68a8a4b9360b6c0d54e2": {
+            "Name": "12ga AP-20 Armor-Piercing Slug",
+            "ShortName": "12ga AP",
+            "Description": "The DDupleks™ AP-20 (armor-piercing) slug is designed to penetrate level IV body armor. For military and law enforcement use only."
+        },
+        "5d6e695fa4b936359b35d852": {
+            "Name": "20ga #4 Buckshot",
+            "ShortName": "20ga #4",
+            "Description": "Winchester™ Buckshot loaded with 15 #4 lead pellets."
+        },
+        "5d6e69b9a4b9361bc8618958": {
+            "Name": "20ga #3 Buckshot",
+            "ShortName": "20ga #3",
+            "Description": "Winchester™ Buckshot loaded with 12 #3 lead pellets."
+        },
+        "5d6e69c7a4b9360b6c0d54e4": {
+            "Name": "20ga #2 Buckshot",
+            "ShortName": "20ga #2",
+            "Description": "Winchester™ Buckshot loaded with 10 #2 lead pellets."
+        },
+        "5a38ebd9c4a282000d722a5b": {
+            "Name": "20ga #1 Buckshot",
+            "ShortName": "20ga #1",
+            "Description": "Winchester™ Buckshot loaded with 9 #1 lead pellets."
+        },
+        "5d6e6a5fa4b93614ec501745": {
+            "Name": "20ga Devastator Slug",
+            "ShortName": "20ga DE",
+            "Description": "DDupleks™ 'Broadhead Devastor' Made up of six steel petals inside a polyethylene slug designed to expand and fragment on impact. Slug weighs 300gr"
+        },
+        "5d6e6a05a4b93618084f58d0": {
+            "Name": "20ga Star Slug",
+            "ShortName": "20ga ST",
+            "Description": "Rio™ 'Royal Star' 383gr standard lead foster slug"
+        },
+        "5d6e6a53a4b9361bd473feec": {
+            "Name": "20ga Poleva-3 Slug",
+            "ShortName": "20ga P3",
+            "Description": "Пуля 'Полев-3' - это 23гр стабилизированная хвостовиком сабо-пуля, созданная для обеспечения охотников эффективным решением против медведей, лосей и диких кабанов. Финский стабилизированный сабо обеспечивает отличную точность и останавливающую силу против дальних целей."
+        },
+        "5d6e6a42a4b9364f07165f52": {
+            "Name": "20ga Poleva-6 Slug",
+            "ShortName": "20ga P6",
+            "Description": "Это модификация патрона Полева-3, основанная на увеличении веса самой пули с 23гр до 27гр. Это позволило дополнительно увеличить расширение и смертельность пули. Во всех остальных отношениях он не отличается от Полева-3."
+        },
+        "5e85a9f4add9fe03027d9bf1": {
+            "Name": "4ga Flashbang Shell",
+            "ShortName": "4ga FL",
+            "Description": ""
+        },
+        "5f647f31b6238e5dd066e196": {
+            "Name": "4ga 25 Meter Buckshot",
+            "ShortName": "4ga 25",
+            "Description": ""
+        },
+        "5e85a9a6eacf8c039e4e2ac1": {
+            "Name": "4ga 10 Meter Buckshot",
+            "ShortName": "4ga 10",
+            "Description": ""
+        },
+        "5e85aa1a988a8701445df1f5": {
+            "Name": "4ga Barricade Steel Slug",
+            "ShortName": "4ga BAR",
+            "Description": ""
+        },
+        "5739d41224597779c3645501": {
+            "Name": "9x19mm PST box (16 pcs)",
+            "ShortName": "9mm PST",
+            "Description": ""
+        },
+        "56d59d3ad2720bdb418b4577": {
+            "Name": "9x19mm PST",
+            "ShortName": "9mm PST",
+            "Description": ""
+        },
+        "58864a4f2459770fcc257101": {
+            "Name": "9x19mm PSO",
+            "ShortName": "9mm PSO",
+            "Description": ""
+        },
+        "5a3c16fe86f77452b62de32a": {
+            "Name": "9x19mm Luger",
+            "ShortName": "9mm Luger",
+            "Description": ""
+        },
+        "5c1127bdd174af44217ab8b9": {
+            "Name": "9x19mm RIP box (20 pcs)",
+            "ShortName": "9mm RIP",
+            "Description": ""
+        },
+        "5c0d56a986f774449d5de529": {
+            "Name": "9x19mm RIP",
+            "ShortName": "9mm RIP",
+            "Description": ""
+        },
+        "5c3df7d588a4501f290594e5": {
+            "Name": "9x19mm Green Tracer",
+            "ShortName": "9mm GT",
+            "Description": ""
+        },
+        "5c925fa22e221601da359b7b": {
+            "Name": "9x19mm Armor-Piercing",
+            "ShortName": "9mm AP",
+            "Description": ""
+        },
+        "648987d673c462723909a151": {
+            "Name": "9x19mm PBP box (50 pcs)",
+            "ShortName": "9mm PBP",
+            "Description": ""
+        },
+        "5efb0da7a29a85116f6ea05f": {
+            "Name": "9x19mm PBP",
+            "ShortName": "9mm PBP",
+            "Description": ""
+        },
+        "5efb0e16aeb21837e749c7ff": {
+            "Name": "9x19mm Quakemaker",
+            "ShortName": "9mm QM",
+            "Description": ""
+        },
+        "64aceafcb5bf5e95f50a4c20": {
+            "Name": "9x19mm FMJ box (30 pcs)",
+            "ShortName": "9mm FMJ",
+            "Description": ""
+        },
+        "64b7bbb74b75259c590fa897": {
+            "Name": "9x19mm FMJ",
+            "ShortName": "9mm FMJ",
+            "Description": ""
+        },
+        "5ea2a8e200685063ec28c05a": {
+            "Name": ".45 ACP RIP",
+            "ShortName": ".45 RIP",
+            "Description": ""
+        },
+        "5efb0fc6aeb21837e749c801": {
+            "Name": ".45 ACP Hydra-Shok",
+            "ShortName": ".45 HS",
+            "Description": ""
+        },
+        "5efb0d4f4bc50b58e81710f3": {
+            "Name": ".45 ACP Lasermatch FMJ",
+            "ShortName": ".45 LM",
+            "Description": ""
+        },
+        "5e81f423763d9f754677bf2e": {
+            "Name": ".45 ACP Match FMJ",
+            "ShortName": ".45 M",
+            "Description": ""
+        },
+        "6489879db5a2df1c815a04ef": {
+            "Name": ".45 ACP AP box (50 pcs)",
+            "ShortName": ".45 AP",
+            "Description": ""
+        },
+        "5efb0cabfb3e451d70735af5": {
+            "Name": ".45 ACP AP",
+            "ShortName": ".45 AP",
+            "Description": ""
+        },
+        "5735fdcd2459776445391d61": {
+            "Name": "",
+            "ShortName": "TT AKBS",
+            "Description": ""
+        },
+        "5735ff5c245977640e39ba7e": {
+            "Name": "",
+            "ShortName": "TT FMJ",
+            "Description": ""
+        },
+        "573601b42459776410737435": {
+            "Name": "",
+            "ShortName": "TT LRN",
+            "Description": ""
+        },
+        "573602322459776445391df1": {
+            "Name": "",
+            "ShortName": "TT LRNPC",
+            "Description": ""
+        },
+        "5736026a245977644601dc61": {
+            "Name": "TT P",
+            "ShortName": ".45 M",
+            "Description": ""
+        },
+        "573603562459776430731618": {
+            "Name": "",
+            "ShortName": "TT PST",
+            "Description": ""
+        },
+        "573603c924597764442bd9cb": {
+            "Name": "",
+            "ShortName": "PT",
+            "Description": ""
+        },
+        "6489875745f9ca4ba51c4808": {
+            "Name": "9x21mm BT box (30 pcs)",
+            "ShortName": "9x21 BT",
+            "Description": ""
+        },
+        "5a26ac0ec4a28200741e1e18": {
+            "Name": "9x21mm BT",
+            "ShortName": "9x21 BT",
+            "Description": ""
+        },
+        "5a269f97c4a282000b151807": {
+            "Name": "9x21mm PS",
+            "ShortName": "9x21 PS",
+            "Description": ""
+        },
+        "5a26abfac4a28232980eabff": {
+            "Name": "9x21mm P",
+            "ShortName": "9x21 P",
+            "Description": ""
+        },
+        "5a26ac06c4a282000c5a90a8": {
+            "Name": "9x21mm PE",
+            "ShortName": "9x21 PE",
+            "Description": ""
+        },
+        "62330b3ed4dc74626d570b95": {
+            "Name": "",
+            "ShortName": "357 FMJ",
+            "Description": ""
+        },
+        "62330bfadc5883093563729b": {
+            "Name": "",
+            "ShortName": "357 HP",
+            "Description": ""
+        },
+        "62330c18744e5e31df12f516": {
+            "Name": "",
+            "ShortName": "357 JHP",
+            "Description": ""
+        },
+        "62330c40bdd19b369e1e53d1": {
+            "Name": "",
+            "ShortName": "357 SP",
+            "Description": ""
+        },
+        "648986bbc827d4637f01791e": {
+            "Name": "5.7x28mm AP box (50 pcs)",
+            "ShortName": "5.7 AP",
+            "Description": ""
+        },
+        "5cc80f38e4a949001152b560": {
+            "Name": "5.7x28mm AP",
+            "ShortName": "5.7 AP",
+            "Description": ""
+        },
+        "5cc80f53e4a949000e1ea4f8": {
+            "Name": "5.7x28mm AP Tracer",
+            "ShortName": "5.7 APT",
+            "Description": ""
+        },
+        "5cc80f67e4a949035e43bbba": {
+            "Name": "5.7x28mm White Tip",
+            "ShortName": "5.7 WH",
+            "Description": ""
+        },
+        "5cc80f79e4a949033c7343b2": {
+            "Name": "5.7x28mm Green Tip",
+            "ShortName": "5.7 GR",
+            "Description": ""
+        },
+        "5cc86840d7f00c002412c56c": {
+            "Name": "5.7x28mm Open Tip",
+            "ShortName": "5.7 OP",
+            "Description": ""
+        },
+        "5cc86832d7f00c000d3a6e6c": {
+            "Name": "5.7x28mm HP",
+            "ShortName": "5.7 HP",
+            "Description": ""
+        },
+        "5cc80f8fe4a949033b0224a2": {
+            "Name": "5.7x28mm Blue Tip",
+            "ShortName": "5.7 BL",
+            "Description": ""
+        },
+        "6489870774a806211e4fb685": {
+            "Name": "4.6x30mm AP box (40 pcs)",
+            "ShortName": "4.6 AP",
+            "Description": ""
+        },
+        "5ba26835d4351e0035628ff5": {
+            "Name": "4.6x30mm AP",
+            "ShortName": "4.6 AP",
+            "Description": ""
+        },
+        "64aceaecc4eda9354b0226b6": {
+            "Name": "4.6x30mm JSP box (40 pcs)",
+            "ShortName": "4.6 JSP",
+            "Description": ""
+        },
+        "64b6979341772715af0f9c39": {
+            "Name": "4.6x30mm JSP",
+            "ShortName": "4.6 JSP",
+            "Description": ""
+        },
+        "5ba2678ad4351e44f824b344": {
+            "Name": "4.6x30mm FMJ",
+            "ShortName": "4.6 FMJ",
+            "Description": ""
+        },
+        "5ba26812d4351e003201fef1": {
+            "Name": "4.6x30mm Action",
+            "ShortName": "5.7 AC",
+            "Description": ""
+        },
+        "5ba26844d4351e00334c9475": {
+            "Name": "4.6x30mm Subsonic",
+            "ShortName": "4.6 SU",
+            "Description": ""
+        },
+        "6489854673c462723909a14e": {
+            "Name": "9x39mm BP box (20 pcs)",
+            "ShortName": "9x39 BP",
+            "Description": ""
+        },
+        "5c1260dc86f7746b106e8748": {
+            "Name": "9x39mm BP box (8 pcs)",
+            "ShortName": "9x39 BP",
+            "Description": ""
+        },
+        "5c0d688c86f77413ae3407b2": {
+            "Name": "9x39mm BP",
+            "ShortName": "9x39 BP",
+            "Description": ""
+        },
+        "5c12619186f7743f871c8a32": {
+            "Name": "9x39mm SPP box (8 pcs)",
+            "ShortName": "9x39 SPP",
+            "Description": ""
+        },
+        "57a0dfb82459774d3078b56c": {
+            "Name": "9x39mm SP-5",
+            "ShortName": "9x39 SP5",
+            "Description": ""
+        },
+        "57a0e5022459774d1673f889": {
+            "Name": "9x39mm SP-6",
+            "ShortName": "9x39 SP6",
+            "Description": ""
+        },
+        "5c0d668f86f7747ccb7f13b2": {
+            "Name": "9x39mm SPP",
+            "ShortName": "9x39 SPP",
+            "Description": ""
+        },
+        "61962d879bb3d20b0946d385": {
+            "Name": "9x39mm PAB-9",
+            "ShortName": "9x39 PAB",
+            "Description": ""
+        },
+        "59e6542b86f77411dc52a77a": {
+            "Name": "",
+            "ShortName": ".366 FMJ",
+            "Description": ""
+        },
+        "59e655cb86f77411dc52a77b": {
+            "Name": "",
+            "ShortName": ".366 EKO",
+            "Description": ""
+        },
+        "59e6658b86f77411d949b250": {
+            "Name": "",
+            "ShortName": ".366 GEK",
+            "Description": ""
+        },
+        "5f0596629e22f464da6bbdd9": {
+            "Name": "",
+            "ShortName": ".366 APM",
+            "Description": ""
+        },
+        "648985c074a806211e4fb682": {
+            "Name": ".300 Blackout AP box (50 pcs)",
+            "ShortName": ".300 AP",
+            "Description": ""
+        },
+        "5fd20ff893a8961fc660a954": {
+            "Name": ".300 Blackout AP",
+            "ShortName": ".300 AP",
+            "Description": ""
+        },
+        "5fbe3ffdf8b6a877a729ea82": {
+            "Name": ".300 Blackout FMJ",
+            "ShortName": ".300 FMJ",
+            "Description": ""
+        },
+        "6196364158ef8c428c287d9f": {
+            "Name": ".300 Blackout V-Max",
+            "ShortName": ".300 MAX",
+            "Description": ""
+        },
+        "619636be6db0f2477964e710": {
+            "Name": ".300 Blackout M62 Tracer",
+            "ShortName": ".300 TR",
+            "Description": ""
+        },
+        "64b8725c4b75259c590fa899": {
+            "Name": ".300 Blackout CBJ",
+            "ShortName": ".300 CBJ",
+            "Description": ""
+        },
+        "560d75f54bdc2da74d8b4573": {
+            "Name": "7.62x54mm SNB box (20 pcs)",
+            "ShortName": "7.62R SNB",
+            "Description": ""
+        },
+        "560d61e84bdc2da74d8b4571": {
+            "Name": "7.62x54mm SNB",
+            "ShortName": "7.62R SNB",
+            "Description": ""
+        },
+        "5887431f2459777e1612938f": {
+            "Name": "7.62x54mm LPS",
+            "ShortName": "7.62R LPS",
+            "Description": ""
+        },
+        "59e77a2386f7742ee578960a": {
+            "Name": "7.62x54mm PS",
+            "ShortName": "7.62R PS",
+            "Description": ""
+        },
+        "5e023cf8186a883be655e54f": {
+            "Name": "7.62x54mm T-46M",
+            "ShortName": "7.62R T46",
+            "Description": ""
+        },
+        "5e023d34e8a400319a28ed44": {
+            "Name": "7.62x54mm BT",
+            "ShortName": "7.62R BT",
+            "Description": ""
+        },
+        "648984b8d5b4df6140000a1a": {
+            "Name": "7.62x54mm BS box (20 pcs)",
+            "ShortName": "7.62R BS",
+            "Description": ""
+        },
+        "5e023d48186a883be655e551": {
+            "Name": "7.62x54mm BS",
+            "ShortName": "7.62R BS",
+            "Description": ""
+        },
+        "64aceab0426a303417060654": {
+            "Name": "7.62x54mm SP BT box (20 pcs)",
+            "ShortName": "7.62R BT",
+            "Description": ""
+        },
+        "64b8f7b5389d7ffd620ccba2": {
+            "Name": "7.62x54mm SP BT",
+            "ShortName": "7.62R SP",
+            "Description": ""
+        },
+        "64aceac0c4eda9354b0226b3": {
+            "Name": "7.62x54mm FMJ box (20 pcs)",
+            "ShortName": "7.62R FMJ",
+            "Description": ""
+        },
+        "64b8f7968532cf95ee0a0dbf": {
+            "Name": "7.62x54mm FMJ",
+            "ShortName": "7.62R FMJ",
+            "Description": ""
+        },
+        "64acee6903378853630da544": {
+            "Name": "7.62x54mm HP box (20 pcs)",
+            "ShortName": "7.62R HP",
+            "Description": ""
+        },
+        "64b8f7c241772715af0f9c3d": {
+            "Name": "7.62x54mm HP",
+            "ShortName": "7.62R HP",
+            "Description": ""
+        },
+        "648983d6b5a2df1c815a04ec": {
+            "Name": "12.7x55mm AP box (10 pcs)",
+            "ShortName": "12.7 AP",
+            "Description": ""
+        },
+        "5cadf6eeae921500134b2799": {
+            "Name": "12.7x55mm AP",
+            "ShortName": "12.7 AP",
+            "Description": ""
+        },
+        "5cadf6e5ae921500113bb973": {
+            "Name": "12.7x55mm SP",
+            "ShortName": "12.7 SP",
+            "Description": ""
+        },
+        "5cadf6ddae9215051e1c23b2": {
+            "Name": "12.7x55mm FMJ",
+            "ShortName": "12.7 FMJ",
+            "Description": ""
+        },
+        "6489848173c462723909a14b": {
+            "Name": ".338 Lapua Magnum AP box (20 pcs)",
+            "ShortName": ".338 AP",
+            "Description": ""
+        },
+        "5fc382a9d724d907e2077dab": {
+            "Name": "",
+            "ShortName": ".338 AP",
+            "Description": ""
+        },
+        "5fc275cf85fd526b824a571a": {
+            "Name": "",
+            "ShortName": ".338 FMJ",
+            "Description": ""
+        },
+        "5fc382b6d6fa9c00c571bbc3": {
+            "Name": "",
+            "ShortName": ".338 TAC",
+            "Description": ""
+        },
+        "5fc382c1016cce60e8341b20": {
+            "Name": "",
+            "ShortName": ".338 UCW",
+            "Description": ""
+        },
+        "573728f324597765e5728561": {
+            "Name": "9x18mm SP8 box (16 pcs)",
+            "ShortName": "9x18 SP8",
+            "Description": ""
+        },
+        "573728cc24597765cc785b5d": {
+            "Name": "9x18mm SP7 box (16 pcs)",
+            "ShortName": "9x18 SP7",
+            "Description": ""
+        },
+        "5737287724597765e1625ae2": {
+            "Name": "9x18mm RG028 box (16 pcs)",
+            "ShortName": "9x18 RG",
+            "Description": ""
+        },
+        "5737280e24597765cc785b5c": {
+            "Name": "9x18mm PSV box (16 pcs)",
+            "ShortName": "9x18 PSV",
+            "Description": ""
+        },
+        "573727c624597765cc785b5b": {
+            "Name": "9x18mm PST box (16 pcs)",
+            "ShortName": "9x18 PST",
+            "Description": ""
+        },
+        "5737273924597765dd374461": {
+            "Name": "9x18mm PSO box (16 pcs)",
+            "ShortName": "9x18 PSO",
+            "Description": ""
+        },
+        "573726d824597765d96be361": {
+            "Name": "9x18mm PS box (16 pcs)",
+            "ShortName": "9x18 PS",
+            "Description": ""
+        },
+        "5737266524597761006c6a8c": {
+            "Name": "9x18mm PRS box (16 pcs)",
+            "ShortName": "9x18 PRS",
+            "Description": ""
+        },
+        "5737260b24597761224311f2": {
+            "Name": "9x18mm PPT box (16 pcs)",
+            "ShortName": "9x18 PPT",
+            "Description": ""
+        },
+        "573725b0245977612125bae2": {
+            "Name": "9x18mm PPe box (16 pcs)",
+            "ShortName": "9x18 PPe",
+            "Description": ""
+        },
+        "5737256c2459776125652acd": {
+            "Name": "9x18mm PstM box (16 pcs)",
+            "ShortName": "9x18 PstM",
+            "Description": ""
+        },
+        "5737250c2459776125652acc": {
+            "Name": "9x18mm PBM box (16 pcs)",
+            "ShortName": "9x18 PBM",
+            "Description": ""
+        },
+        "573724b42459776125652ac2": {
+            "Name": "9x18mm P box (16 pcs)",
+            "ShortName": "9x18 P",
+            "Description": ""
+        },
+        "573722e82459776104581c21": {
+            "Name": "9x18mm BZhT box (16 pcs)",
+            "ShortName": "9x18 BZhT",
+            "Description": ""
+        },
+        "5737218f245977612125ba51": {
+            "Name": "9x18mm SP8",
+            "ShortName": "9x18 SP8",
+            "Description": ""
+        },
+        "57372140245977611f70ee91": {
+            "Name": "9x18mm SP7",
+            "ShortName": "9x18 SP7",
+            "Description": ""
+        },
+        "573720e02459776143012541": {
+            "Name": "9x18mm RG028",
+            "ShortName": "9x18 RG",
+            "Description": ""
+        },
+        "5737207f24597760ff7b25f2": {
+            "Name": "9x18mm PSV",
+            "ShortName": "9x18 PSV",
+            "Description": ""
+        },
+        "5737201124597760fc4431f1": {
+            "Name": "9x18mm Pst",
+            "ShortName": "9x18 Pst",
+            "Description": ""
+        },
+        "57371f8d24597761006c6a81": {
+            "Name": "9x18mm PSO",
+            "ShortName": "9x18 PSO",
+            "Description": ""
+        },
+        "57371f2b24597761224311f1": {
+            "Name": "9x18mm PS",
+            "ShortName": "9x18 PS",
+            "Description": ""
+        },
+        "57371eb62459776125652ac1": {
+            "Name": "9x18mm PRS",
+            "ShortName": "9x18 PRS",
+            "Description": ""
+        },
+        "57371e4124597760ff7b25f1": {
+            "Name": "9x18mm PPT",
+            "ShortName": "9x18 PPT",
+            "Description": ""
+        },
+        "57371b192459775a9f58a5e0": {
+            "Name": "9x18mm PPe",
+            "ShortName": "9x18 PPe",
+            "Description": ""
+        },
+        "57371aab2459775a77142f22": {
+            "Name": "9x18mm PstM",
+            "ShortName": "9x18 PstM",
+            "Description": ""
+        },
+        "573719df2459775a626ccbc2": {
+            "Name": "9x18mm PBM",
+            "ShortName": "9x18 PBM",
+            "Description": ""
+        },
+        "573719762459775a626ccbc1": {
+            "Name": "9x18mm P",
+            "ShortName": "9x18 P",
+            "Description": ""
+        },
+        "573718ba2459775a75491131": {
+            "Name": "9x18mm BZhT",
+            "ShortName": "9x18 BZhT",
+            "Description": ""
+        },
+        "57347d7224597744596b4e72": {
+            "Name": "Cat food",
+            "ShortName": "Cat Food",
+            "Description": ""
+        },
+        "57347da92459774491567cf5": {
+            "Name": "Dog food",
+            "ShortName": "Dog Food",
+            "Description": ""
+        },
+        "5751496424597720a27126da": {
+            "Name": "Red Bull",
+            "ShortName": "Red Bull",
+            "Description": "It gives you wings (and kidney stones)."
+        },
+        "544fb6cc4bdc2d34748b456e": {
+            "Name": "Snickers",
+            "ShortName": "Snickers",
+            "Description": ""
+        },
+        "575146b724597720a27126d5": {
+            "Name": "Almond Milk",
+            "ShortName": "Milk",
+            "Description": "Made with almonds and water. And infused with other vitamins & minerals, almond milk has a much longer shelf life than dairy milk. Best by 4th of August, 2016"
         }
     }
 }

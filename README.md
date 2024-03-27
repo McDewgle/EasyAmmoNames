@@ -1,2 +1,3 @@
-# BulletRenamer
-Renames items to hopefully make them a little more memorable.
+# EasyAmmoNames
+
+A locales mod that renames ammunition

@@ -228,8 +228,8 @@ function createProjectName(packageJson) {
     const version = packageJson.version;
 
     // Ensure the name is lowercase, as per the package.json specification.
-    //-${version}
-    return `${author}-${name}`.toLowerCase();
+    //-${version}.toLowerCase()
+    return `${author}-${name}`;
 }
 
 /**
