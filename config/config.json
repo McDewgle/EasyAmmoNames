@@ -240,6 +240,11 @@
             "ShortName": "545 PS",
             "Description": ""
         },
+        "57372e94245977685648d3e1": {
+            "Name": "5.45x39mm PS box (120 pcs)",
+            "ShortName": "545 PS",
+            "Description": ""
+        },
         "57372ebf2459776862260582": {
             "Name": "5.45x39mm PS box (30 pcs)",
             "ShortName": "545 PS",
@@ -311,6 +316,11 @@
             "Description": ""
         },
         "57372b832459776701014e41": {
+            "Name": "5.45x39mm BS box (120 pcs)",
+            "ShortName": "545 BS",
+            "Description": ""
+        },
+        "57372bad245977670b7cd242": {
             "Name": "5.45x39mm BS box (120 pcs)",
             "ShortName": "545 BS",
             "Description": ""
@@ -772,7 +782,7 @@
         },
         "5ba26812d4351e003201fef1": {
             "Name": "4.6x30mm Action",
-            "ShortName": "5.7 AC",
+            "ShortName": "4.6 AC",
             "Description": ""
         },
         "5ba26844d4351e00334c9475": {
@@ -1143,7 +1153,7 @@
         "544fb6cc4bdc2d34748b456e": {
             "Name": "Snickers",
             "ShortName": "Snickers",
-            "Description": ""
+            "Description": "Chocolate and nuts. Stay hydrated or get constipated."
         },
         "575146b724597720a27126d5": {
             "Name": "Almond Milk",
