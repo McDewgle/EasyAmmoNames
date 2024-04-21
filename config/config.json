@@ -70,6 +70,16 @@
             "ShortName": "556 AP",
             "Description": ""
         },
+        "6529302b8c26af6326029fb7": {
+            "Name": "",
+            "ShortName": "6.8 FMJ",
+            "Description": ""
+        },
+        "6529243824cbe3c74a05e5c1": {
+            "Name": "",
+            "ShortName": "6.8 HYB",
+            "Description": ""
+        },
         "64acea2c03378853630da53e": {
             "Name": "7.62x39mm HP box (20 pcs)",
             "ShortName": "762 HP",
@@ -212,7 +222,7 @@
         },
         "57372ee1245977685d4159b5": {
             "Name": "5.45x39mm Tracer box (120 pcs)",
-            "ShortName": "545 US",
+            "ShortName": "545 TR",
             "Description": ""
         },
         "57372f5c24597769917c0131": {
@@ -418,7 +428,7 @@
         "5c1127d0d174af29be75cf68": {
             "Name": "12ga RIP Slug box (5 pcs)",
             "ShortName": "12ga RP",
-            "Description": "G2 Research™ (Radically Invasive Projectile) is a 303gr solid brass hollow point slug designed to fragment into multiple pieces upon penetration creating up to six separate wound channels. Some USEC operator must've brought this overpriced nonsense into Tarkov."
+            "Description": ""
         },
         "5c0d591486f7744c505b416f": {
             "Name": "12ga RIP Slug",
@@ -453,17 +463,17 @@
         "5d6e6869a4b9361c140bcfde": {
             "Name": "12ga Grizzly Slug",
             "ShortName": "12ga GR",
-            "Description": "'калибра 40' представляет собой цельносвинцовую пулю, предназначенную для стрельбы из нарезных стволов. Весит 40 грамм и может остановить медведя. Но чтобы быть уверенным, выстрелите дважды."
+            "Description": "'Grizzly 40' is a hollow point, lead foster slug designed for shooting from rifled barrels. Slug weighs 40 grams and can stop a bear. But just to be sure, shoot twice."
         },
         "5d6e6891a4b9361bd473feea": {
             "Name": "12ga Poleva-3 Slug",
             "ShortName": "12ga P3",
-            "Description": "Пуля 'Полев-3' - это 23гр стабилизированная хвостовиком сабо-пуля, созданная для обеспечения охотников эффективным решением против медведей, лосей и диких кабанов. Финский стабилизированный сабо обеспечивает отличную точность и останавливающую силу против дальних целей."
+            "Description": "The 'Poleva-3' is a 23 gram slug designed to provide hunters with an effective solution against bears, moose and wild boar. The fin stabilized sabot ensures excellent accuracy against distant targets."
         },
         "5d6e689ca4b9361bc8618956": {
             "Name": "12ga Poleva-6 Slug",
             "ShortName": "12ga P6",
-            "Description": "Это модификация патрона Полева-3, основанная на увеличении веса самой пули с 23гр до 27гр. Это позволило дополнительно увеличить расширение и смертельность пули. Во всех остальных отношениях он не отличается от Полева-3."
+            "Description": "This is a modification of the 'Poleva-3' slug, by increasing the weight of the bullet itself from 23 grams to 27 grams. This allows for additional expansion and lethality. In all other respects it is identical to the 'Poleva-3'."
         },
         "5d6e68c4a4b9361b93413f79": {
             "Name": "12ga makeshift .50 BMG Slug",
@@ -473,7 +483,7 @@
         "64898838d5b4df6140000a20": {
             "Name": "12ga AP-20 box (25 pcs)",
             "ShortName": "12ga AP20",
-            "Description": "The DDupleks™ AP-20 slug is designed to penetrate level IV body armor. For military and law enforcement use only."
+            "Description": ""
         },
         "5d6e68a8a4b9360b6c0d54e2": {
             "Name": "12ga AP-20 Armor-Piercing Slug",
@@ -513,12 +523,12 @@
         "5d6e6a53a4b9361bd473feec": {
             "Name": "20ga Poleva-3 Slug",
             "ShortName": "20ga P3",
-            "Description": "Пуля 'Полев-3' - это 23гр стабилизированная хвостовиком сабо-пуля, созданная для обеспечения охотников эффективным решением против медведей, лосей и диких кабанов. Финский стабилизированный сабо обеспечивает отличную точность и останавливающую силу против дальних целей."
+            "Description": "The 'Poleva-3' is a 23 gram slug designed to provide hunters with an effective solution against bears, moose and wild boar. The fin stabilized sabot ensures excellent accuracy against distant targets."
         },
         "5d6e6a42a4b9364f07165f52": {
             "Name": "20ga Poleva-6 Slug",
             "ShortName": "20ga P6",
-            "Description": "Это модификация патрона Полева-3, основанная на увеличении веса самой пули с 23гр до 27гр. Это позволило дополнительно увеличить расширение и смертельность пули. Во всех остальных отношениях он не отличается от Полева-3."
+            "Description": "This is a modification of the 'Poleva-3' slug, by increasing the weight of the bullet itself from 23 grams to 27 grams. This allows for additional expansion and lethality. In all other respects it is identical to the 'Poleva-3'."
         },
         "5e85a9f4add9fe03027d9bf1": {
             "Name": "4ga Flashbang Shell",
@@ -607,32 +617,32 @@
         },
         "5ea2a8e200685063ec28c05a": {
             "Name": ".45 ACP RIP",
-            "ShortName": ".45 RIP",
+            "ShortName": "45 RIP",
             "Description": ""
         },
         "5efb0fc6aeb21837e749c801": {
             "Name": ".45 ACP Hydra-Shok",
-            "ShortName": ".45 HS",
+            "ShortName": "45 HS",
             "Description": ""
         },
         "5efb0d4f4bc50b58e81710f3": {
             "Name": ".45 ACP Lasermatch FMJ",
-            "ShortName": ".45 LM",
+            "ShortName": "45 LM",
             "Description": ""
         },
         "5e81f423763d9f754677bf2e": {
             "Name": ".45 ACP Match FMJ",
-            "ShortName": ".45 M",
+            "ShortName": "45 M",
             "Description": ""
         },
         "6489879db5a2df1c815a04ef": {
             "Name": ".45 ACP AP box (50 pcs)",
-            "ShortName": ".45 AP",
+            "ShortName": "45 AP",
             "Description": ""
         },
         "5efb0cabfb3e451d70735af5": {
             "Name": ".45 ACP AP",
-            "ShortName": ".45 AP",
+            "ShortName": "45 AP",
             "Description": ""
         },
         "5735fdcd2459776445391d61": {
@@ -656,8 +666,8 @@
             "Description": ""
         },
         "5736026a245977644601dc61": {
-            "Name": "TT P",
-            "ShortName": ".45 M",
+            "Name": "",
+            "ShortName": "TT P",
             "Description": ""
         },
         "573603562459776430731618": {
@@ -850,35 +860,65 @@
             "ShortName": ".366 APM",
             "Description": ""
         },
-        "648985c074a806211e4fb682": {
-            "Name": ".300 Blackout AP box (50 pcs)",
-            "ShortName": ".300 AP",
-            "Description": ""
-        },
-        "5fd20ff893a8961fc660a954": {
-            "Name": ".300 Blackout AP",
-            "ShortName": ".300 AP",
+        "657023bebfc87b3a34093207": {
+            "Name": ".300 FMJ box (50 pcs)",
+            "ShortName": "300 FMJ",
             "Description": ""
         },
         "5fbe3ffdf8b6a877a729ea82": {
-            "Name": ".300 Blackout FMJ",
-            "ShortName": ".300 FMJ",
+            "Name": ".300 FMJ",
+            "ShortName": "300 FMJ",
             "Description": ""
         },
-        "6196364158ef8c428c287d9f": {
-            "Name": ".300 Blackout V-Max",
-            "ShortName": ".300 MAX",
+        "648985c074a806211e4fb682": {
+            "Name": ".300 AP box (50 pcs)",
+            "ShortName": "300 AP",
             "Description": ""
         },
-        "619636be6db0f2477964e710": {
-            "Name": ".300 Blackout M62 Tracer",
-            "ShortName": ".300 TR",
+        "5fd20ff893a8961fc660a954": {
+            "Name": ".300 AP",
+            "ShortName": "300 AP",
+            "Description": ""
+        },
+        "657023a9126cc4a57d0e17a6": {
+            "Name": ".300 CBJ box (50 pcs)",
+            "ShortName": "300 CBJ",
             "Description": ""
         },
         "64b8725c4b75259c590fa899": {
-            "Name": ".300 Blackout CBJ",
-            "ShortName": ".300 CBJ",
+            "Name": ".300 CBJ",
+            "ShortName": "300 CBJ",
             "Description": ""
+        },
+        "657023b71419851aef03e6e8": {
+            "Name": ".300 V-Max box (50 pcs)",
+            "ShortName": "300 MAX",
+            "Description": ""
+        },
+        "6196364158ef8c428c287d9f": {
+            "Name": ".300 V-Max",
+            "ShortName": "300 MAX",
+            "Description": ""
+        },
+        "657023b1cfc010a0f50069e5": {
+            "Name": ".300 M62 Tracer box (50 pcs)",
+            "ShortName": "300 TR",
+            "Description": ""
+        },
+        "619636be6db0f2477964e710": {
+            "Name": ".300 M62 Tracer",
+            "ShortName": "300 TR",
+            "Description": ""
+        },
+        "657023c61419851aef03e6eb": {
+            "Name": ".300 Whisper box (50 pcs)",
+            "ShortName": "300 WSP",
+            "Description": ""
+        },
+        "6196365d58ef8c428c287da1": {
+            "Name": ".300 Whisper",
+            "ShortName": "300 WSP",
+            "Description": "The Whisper cartridge is a lightweight, SUBSONIC bullet using an aluminum core and pre-stressed jacket for rapid expansion. Not the deadliest ammo in the 300 family but certainly the quietest when used with a suppressor and the SPT Realism mod."
         },
         "560d75f54bdc2da74d8b4573": {
             "Name": "7.62x54mm SNB box (20 pcs)",
@@ -1133,16 +1173,6 @@
         "573718ba2459775a75491131": {
             "Name": "9x18mm BZhT",
             "ShortName": "9x18 BZhT",
-            "Description": ""
-        },
-        "57347d7224597744596b4e72": {
-            "Name": "Cat food",
-            "ShortName": "Cat Food",
-            "Description": ""
-        },
-        "57347da92459774491567cf5": {
-            "Name": "Dog food",
-            "ShortName": "Dog Food",
             "Description": ""
         },
         "5751496424597720a27126da": {
