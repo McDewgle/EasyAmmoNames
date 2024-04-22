@@ -13,7 +13,7 @@ class BulletRenamer implements IPostDBLoadMod
         const logger = container.resolve<ILogger>("WinstonLogger");
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const itemDatabase = databaseServer.getTables().templates.items;
-        const localeDatabase = databaseServer.getTables().locales.global["en"];
+        const localeDatabase = databaseServer.getTables().locales.global[this.modConfig["locale"]];
 
         for (const itemTpl in this.modConfig["items"])
         {
