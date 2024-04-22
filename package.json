@@ -1,6 +1,6 @@
 {
     "name": "EasyAmmoNames",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "main": "src/mod.js",
     "license": "MIT",
     "author": "McDewgle",
