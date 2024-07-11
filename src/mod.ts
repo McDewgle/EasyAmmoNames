@@ -1,14 +1,14 @@
 import { DependencyContainer } from "tsyringe";
 
-import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
-import { ILogger } from "@spt-aki/models/spt/utils/ILogger";
-import { DatabaseServer } from "@spt-aki/servers/DatabaseServer";
+import { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
+import { ILogger } from "@spt/models/spt/utils/ILogger";
+import { DatabaseServer } from "@spt/servers/DatabaseServer";
 
-class BulletRenamer implements IPostDBLoadMod
+class EasyAmmoNames implements IPostDBLoadMod
 {
     private modConfig = require("../config/config.json");
 
-    postDBLoad(container: DependencyContainer): void 
+    postDBLoad(container: DependencyContainer): void
     {
         const logger = container.resolve<ILogger>("WinstonLogger");
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
@@ -51,4 +51,4 @@ class BulletRenamer implements IPostDBLoadMod
     }
 }
 
-module.exports = { mod: new BulletRenamer() };
+module.exports = { mod: new EasyAmmoNames() };
