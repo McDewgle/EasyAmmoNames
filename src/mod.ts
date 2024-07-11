@@ -4,9 +4,11 @@ import { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
 import { ILogger } from "@spt/models/spt/utils/ILogger";
 import { DatabaseServer } from "@spt/servers/DatabaseServer";
 import { LocaleService } from "@spt/services/LocaleService";
+import { ItemType } from "@spt/models/eft/common/tables/ITemplateItem";
 
 class EasyAmmoNames implements IPostDBLoadMod {
     private modConfig = require("../config/config.json");
+    private debug = false;
 
     postDBLoad(container: DependencyContainer): void {
         const logger = container.resolve<ILogger>("WinstonLogger");
@@ -39,6 +41,19 @@ class EasyAmmoNames implements IPostDBLoadMod {
 
                 if (itemInfo["Description"] != "" && itemDescription in localeDatabase) {
                     localeDatabase[itemDescription] = itemInfo["Description"];
+                }
+            }
+        }
+
+        if (!this.debug) return;
+
+        for (const itemId in itemDatabase) {
+            const item = itemDatabase[itemId];
+            if (item._type != ItemType.ITEM) continue;
+
+            if (item._parent == "5485a8684bdc2da71d8b4567") {
+                if (!(item._id in this.modConfig["items"]) && item._props.ammoType == "bullet" && item._name.toLowerCase().indexOf("shrapnel") == -1) {
+                    logger.info(`Item ${item._name} was not in list. tpl: ${item._id}`);
                 }
             }
         }
