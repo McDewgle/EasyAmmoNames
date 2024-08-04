@@ -26,9 +26,9 @@ import { LocalisationService } from "@spt/services/LocalisationService";
 import { MailSendService } from "@spt/services/MailSendService";
 import { ProfileFixerService } from "@spt/services/ProfileFixerService";
 import { SeasonalEventService } from "@spt/services/SeasonalEventService";
-import { ICloner } from "@spt/utils/cloners/ICloner";
 import { HashUtil } from "@spt/utils/HashUtil";
 import { TimeUtil } from "@spt/utils/TimeUtil";
+import { ICloner } from "@spt/utils/cloners/ICloner";
 export declare class ProfileController {
     protected logger: ILogger;
     protected hashUtil: HashUtil;
@@ -122,5 +122,5 @@ export declare class ProfileController {
     /**
      * Handle client/profile/settings
      */
-    setChosenProfileIcon(sessionId: string, request: IGetProfileSettingsRequest): void;
+    setChosenProfileIcon(sessionId: string, request: IGetProfileSettingsRequest): boolean;
 }
