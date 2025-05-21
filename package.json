@@ -4,7 +4,7 @@
     "main": "src/mod.js",
     "license": "MIT",
     "author": "McDewgle",
-    "sptVersion": "~3.10",
+    "sptVersion": "~3.11",
     "loadBefore": [],
     "loadAfter": [],
     "incompatibilities": [],
