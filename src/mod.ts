@@ -4,7 +4,7 @@ import { ILogger } from "@spt/models/spt/utils/ILogger";
 import { DatabaseServer } from "@spt/servers/DatabaseServer";
 import { LocaleService } from "@spt/services/LocaleService";
 import { ItemType } from "@spt/models/eft/common/tables/ITemplateItem";
-import { VFS } from "@spt/utils/VFS";
+import { FileSystemSync } from "@spt/utils/FileSystemSync";
 import path from "path";
 
 class EasyAmmoNames implements IPostDBLoadMod {
@@ -12,7 +12,7 @@ class EasyAmmoNames implements IPostDBLoadMod {
     private debug = true;
 
     postDBLoad(container: DependencyContainer): void {
-        const vfs = container.resolve<VFS>("VFS");
+        const fileSystem = container.resolve<FileSystemSync>("FileSystemSync");
         const logger = container.resolve<ILogger>("WinstonLogger");
         const databaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const localeService = container.resolve<LocaleService>("LocaleService");
@@ -20,7 +20,7 @@ class EasyAmmoNames implements IPostDBLoadMod {
         const handbookDatabase = databaseServer.getTables().templates.handbook;
         const localeDatabase = localeService.getLocaleDb();
         
-        this.modConfig = JSON.parse(vfs.readFile(path.resolve(__dirname, "../config/config.json")));
+        this.modConfig = JSON.parse(fileSystem.read(path.resolve(__dirname, "../config/config.json")));
 
         for (const itemTpl in this.modConfig["items"]) {
             const itemInfo = this.modConfig["items"][itemTpl];
@@ -80,7 +80,7 @@ class EasyAmmoNames implements IPostDBLoadMod {
                 }
             }
         }
-        vfs.writeFile(path.resolve(__dirname, "../config/config.json"), JSON.stringify(this.modConfig, null, 4));
+        fileSystem.write(path.resolve(__dirname, "../config/config.json"), JSON.stringify(this.modConfig, null, 4));
     }
 }
 
